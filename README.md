@@ -10,5 +10,7 @@
 </div>
 
 <div>
-  
+  <
+
+  <a href ="www.linkedin.com/in/alisson-matheus-2020002a0" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
