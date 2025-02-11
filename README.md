@@ -8,7 +8,7 @@
 </div>
 
 <div>
-  <img text-align="right" alt="MrZeroUp" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3M5dml2ZWRkbnV4MHlueDBtNjA2M3RjNXF6MnlvYnE5YzczYm15dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2MsTpsglBOPKcMh7Aq/giphy.gif">
+  <img align="right" alt="MrZeroUp" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3M5dml2ZWRkbnV4MHlueDBtNjA2M3RjNXF6MnlvYnE5YzczYm15dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2MsTpsglBOPKcMh7Aq/giphy.gif">
 </div>
 ##
 
