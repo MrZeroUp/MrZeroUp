@@ -1,3 +1,7 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrZeroUp)](https://github.com/MrZeroUp/github-readme-stats)
+<div>
+  <a href="https://github.com/MrZeroUp">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrZeroUp">
+  <img height="180em" src="https://github.com/MrZeroUp/github-readme-stats">
+</div>
