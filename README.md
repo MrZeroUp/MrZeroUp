@@ -8,7 +8,7 @@
 </div>
 
 <div>
-  <img align="right" alt="MrZeroUp" src="https://giphy.com/136a4c21-3b79-4b0b-9e00-812feaad4a66&https://drive.google.com/file/d/1dH7UKBM6xjtXNlpve0K2dJoT0EDuFsJJ/view?usp=drive_link">
+  <img align="right" alt="MrZeroUp" src="x">
 </div>
 ##
 
