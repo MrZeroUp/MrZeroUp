@@ -1,14 +1,16 @@
 ## Greetings, Ladies and Gentlemen 👨‍💻🌐.
 
-
+/* Ola Eu sou o fulano de tall e etc... */
+</a>
 
 <div>
-<h1> Connect with me </h1>
-  <a href="https://www.linkedin.com/in/alisson-matheus-2020002a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<h2> Connect with me </h2>
+  <a href="https://www.linkedin.com/in/alisson-matheus-2020002a0/" target="_blank"><img           src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"   target="_blank"></a> 
   <a href = "mailto:alissondevwork@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/nByfSZeKW4" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 
+</a>
 
 <div>
   <a href="https://github.com/MrZeroUp">
