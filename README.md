@@ -29,7 +29,7 @@
 
 
 <div style="text-align: center;" align="center">
-  <h3> GitGub Stats </h3>
+  <h3> GitHub Stats </h3>
   <br>
   <a href="https://github.com/MrZeroUp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrZeroUp&theme=highcontrast&show_icons=true&include_all_commits=true&count_private=trueshow_icons=true">
