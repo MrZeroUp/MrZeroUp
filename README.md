@@ -1,4 +1,4 @@
-## Greetings, Ladie's and Gentlemen's 👨‍💻🌐.
+## Greetings, ladies and gentlemen. 👨‍💻🌐.
 
 #
 
